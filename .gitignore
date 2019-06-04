@@ -1,0 +1,4 @@
+.idea/
+venv/
+ovh.conf
+*.egg-info
